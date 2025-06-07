@@ -1,4 +1,4 @@
-]# SGPA Calculator
+# SGPA Calculator
 The **SGPA Calculator** is a C++ program designed to calculate the Semester Grade Point Average (SGPA) for students based on their subject grades and credit hours. The program supports both numeric grade points and letter grades (like O, A, B, etc.), making it flexible for different grading systems.
 
 ## 🔧 Features
