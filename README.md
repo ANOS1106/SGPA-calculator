@@ -18,7 +18,7 @@ The **SGPA Calculator** is a C++ program designed to calculate the Semester Grad
 3. For each subject, inputs the grade and credit.
 4. The program calculates and displays the SGPA.
 
-## 📦 Future Enhancements (Optional)
+## 📦 Future Enhancements
 - CGPA calculator for multiple semesters(created-> https://github.com/ANOS1106/CGPA_caluclator/blob/main/CGPA_calculator.cpp )
 - GUI using C++ frameworks like Qt or GTK
 - Export results to a text or CSV file
