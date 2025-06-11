@@ -14,7 +14,7 @@ float gradeToPoint(char grade) {//this function will make grade from alphabet to
         {'I', -1.0}
     };
 
-    if (gradeMap.find(grade) != gradeMap.end()) {//this fill find if the grade give is in the map
+    if (gradeMap.find(grade) != gradeMap.end()) {//this fill find if the grade given is in the map
         return gradeMap[grade];//if the given grade is there than will return the numerics of that grade
     }
     return -2.0; // Invalid grade as -1 is for I grade
